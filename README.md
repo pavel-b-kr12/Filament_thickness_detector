@@ -28,5 +28,3 @@ properly setup diaphragm and optics is the key. Without appropriate optics you w
 ### camera
 LiveOV7670
 
-
-
