@@ -19,7 +19,7 @@ and online viewer:
 
 <https://pavel-b-kr12.github.io/serial_com_port_view_online/serial_com_port_view_online.htm>
 
-properly setup diaphragm and optics is the key. Without appropriate optics you will have something like this:
+properly setup diaphragm and optics is the key. Without appropriate optics (but simple pinhole) you will have something like this:
 
 ![TCD1201D image](TCD1201D_img1.jpg)
 
